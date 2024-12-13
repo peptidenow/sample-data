@@ -1,0 +1,17 @@
+name,type,amount,amount_units,reconstitution_amount,reconstitution_units,dosage,dosage_units,timing,frequency_interval,days_on,days_off,duration_period,duration_repeat,syringe_units_per_dose,note
+BPC-157,peptide,10,mg,3,ml,250,mcg,AM/PM,1 day,,,8 weeks,8 weeks,7.5,
+BPC-157,peptide,10,mg,3,ml,250,mcg,AM/PM,1 day,,,4 weeks,2 weeks,7.5,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t
+BPC-157,peptide,10,mg,3,ml,400,mcg,AM/PM,1 day,,,4 weeks,2 weeks,7.5,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t
+CJC-1295 No DAC,peptide,10,mg,3,ml,200,mcg,PM,1 day,5,2,8 weeks,8 weeks,6,
+Epitalon,peptide,100,mg,3,ml,10,mg,AM,1 day,,,10 days,6 months,30,
+Epitalon,peptide,100,mg,3,ml,5,mg,AM,1 day,,,20 days,6 months,30,
+GHK-CU,peptide,100,mg,3,ml,1.5,mg,AM,1 day,,,8 weeks,8 weeks,5,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t
+Ipamorelin,peptide,10,mg,3,ml,300,mcg,AM/PM,1 day,5,2,8 weeks,8 weeks,9,
+Ipamorelin/CJC-1295 No DAC,peptide,10,mg,3,ml,200,mcg,AM/PM,1 day,5,2,8 weeks,8 weeks,7.5,
+MOTS-C,peptide,5,mg,1,ml,5,mg,AM before exercise,3 days,,,4 weeks,10 months,100,
+MOTS-C,peptide,,,,,10,mg,AM before exercise,1 week,,,4 weeks,0 weeks,0,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t need research on repeat and units
+MOTS-C,peptide,,,,,10,mg,AM before exercise,3 days,,,4 weeks,0 weeks,0,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t need research on repeat and units
+NAD+,peptide,500,mg,2,ml,100,mg,AM,3 days,,,8 weeks,8 weeks,40,
+Sermorelin,peptide,5,mg,2.5,ml,200,mcg,AM/PM,1 day,,,8 weeks,8 weeks,10,
+TB-500,peptide,10,mg,3,ml,2,mg,AM,2 days,,,8 weeks,8 weeks,60,
+Glutathione,peptide,1500,mg,7.5,ml,750,mg,AM/PM,1 week,,,8 weeks,8 weeks,,
