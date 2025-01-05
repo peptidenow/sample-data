@@ -1,17 +1,44 @@
-name,type,amount,amount_units,reconstitution_amount,reconstitution_units,dosage,dosage_units,timing,frequency_interval,days_on,days_off,duration_period,duration_repeat,syringe_units_per_dose,note
-BPC-157,peptide,10,mg,3,ml,250,mcg,AM/PM,1 day,,,8 weeks,8 weeks,7.5,
-BPC-157,peptide,10,mg,3,ml,250,mcg,AM/PM,1 day,,,4 weeks,2 weeks,7.5,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t
-BPC-157,peptide,10,mg,3,ml,400,mcg,AM/PM,1 day,,,4 weeks,2 weeks,7.5,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t
-CJC-1295 No DAC,peptide,10,mg,3,ml,200,mcg,PM,1 day,5,2,8 weeks,8 weeks,6,
-Epitalon,peptide,100,mg,3,ml,10,mg,AM,1 day,,,10 days,6 months,30,
-Epitalon,peptide,100,mg,3,ml,5,mg,AM,1 day,,,20 days,6 months,30,
-GHK-CU,peptide,100,mg,3,ml,1.5,mg,AM,1 day,,,8 weeks,8 weeks,5,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t
-Ipamorelin,peptide,10,mg,3,ml,300,mcg,AM/PM,1 day,5,2,8 weeks,8 weeks,9,
-Ipamorelin/CJC-1295 No DAC,peptide,10,mg,3,ml,200,mcg,AM/PM,1 day,5,2,8 weeks,8 weeks,7.5,
-MOTS-C,peptide,5,mg,1,ml,5,mg,AM before exercise,3 days,,,4 weeks,10 months,100,
-MOTS-C,peptide,,,,,10,mg,AM before exercise,1 week,,,4 weeks,0 weeks,0,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t need research on repeat and units
-MOTS-C,peptide,,,,,10,mg,AM before exercise,3 days,,,4 weeks,0 weeks,0,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t need research on repeat and units
-NAD+,peptide,500,mg,2,ml,100,mg,AM,3 days,,,8 weeks,8 weeks,40,
-Sermorelin,peptide,5,mg,2.5,ml,200,mcg,AM/PM,1 day,,,8 weeks,8 weeks,10,
-TB-500,peptide,10,mg,3,ml,2,mg,AM,2 days,,,8 weeks,8 weeks,60,
-Glutathione,peptide,1500,mg,7.5,ml,750,mg,AM/PM,1 week,,,8 weeks,8 weeks,,
+name,type,blend_amounts,amount,amount_units,reconstitution_amount,reconstitution_units,dosage,dosage_units,doses_per_interval,frequency_interval,timing,days_on,days_off,duration_period,duration_repeat,syringe_units_per_dose,note,source,dosage_type,dosage_level
+AOD9604,peptide,,5,mg,2,ml,250,mcg,1,1 day,AM,,,12 weeks,4 weeks,10,,,baseline,standard
+BPC-157,peptide,,5,mg,3,ml,250,mcg,1,1 day,AM/PM,,,4 weeks,2 weeks,30,,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t,baseline,standard
+BPC-157,peptide,,5,mg,3,ml,400,mcg,1,1 day,AM/PM,,,4 weeks,2 weeks,30,,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t,baseline,standard
+BPC-157,peptide,,5,mg,3,ml,500,mcg,2,1 day,AM/PM,,,3 months,1 month,30,,https://www.vitalityhrt.com/blog/bpc-157-peptide-therapy/,theraputic,high
+BPC-157/TB-500,peptide,,5/5,mg,2,ml,250,mcg,1,1 day,AM/PM,,,12 weeks,4 weeks,10,,,baseline,standard
+Cagrilintide,peptide,,10,mg,1,ml,2.5,mg,1,7 days,AM/PM,,,,,25,"the recommended dosage is always 4 weeks at 0.25, 4 weeks at 0.5, 4 weeks 1mg, 4 weeks 1.7, 2.4mg after that",,baseline,standard
+CJC-1295 No DAC,peptide,,10,mg,3,ml,200,mcg,1,1 day,PM,5,2,8 weeks,8 weeks,6,,,baseline,standard
+Epitalon,peptide,,10,mg,1.5,ml,1,mg,1,1 day,AM,,,10 days,4 months,15,,,baseline,standard
+Epitalon,peptide,,10,mg,1.5,ml,1,mg,1,1 day,AM,,,20 days,4 months,15,,,baseline,standard
+GHK-CU,peptide,,100,mg,3,ml,1.5,mg,1,1 day,AM,,,8 weeks,8 weeks,5,,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t,baseline,standard
+GHK-CU,peptide,,100,mg,3,ml,5,mg,1,1 day,PM,,,8 weeks,8 weeks,15,,,baseline,high
+GHK-CU/BPC-157/TB-500,peptide,70/10/10,90,mcg,3,ml,250,mcg,1,1day,AM/PM,,,8 weeks,4 weeks,15,User takes daily.  GHK dose would be approximately 2mg,,baseline,standard
+Glutathione,peptide,,1500,mg,7.5,ml,750,mg,1,1 week,AM/PM,,,8 weeks,8 weeks,,,,baseline,standard
+HCG,amino,,5000,iu,3,ml,250,iu,1,2 days,AM/PM,3,4,,,15,,,baseline,standard
+HMG,peptide,,75,iu,1,ml,25,iu,1,,AM,,,,,,,,baseline,standard
+Ipamorelin,peptide,,10,mg,3,ml,300,mcg,1,1 day,AM/PM,5,2,8 weeks,8 weeks,9,,,baseline,standard
+Ipamorelin/CJC-1295 No DAC,peptide,,10,mg,3,ml,200,mcg,1,1 day,AM/PM,5,2,8 weeks,8 weeks,7.5,,,baseline,standard
+MOTS-C,peptide,,10,mg,0.5,ml,10,mg,3,1 week,AM before exercise,,,4 weeks,4 weeks,25,break of 2-4 weeks after completing a 4-6 week cycle,https://youtu.be/rZRzUWb8UrM?si=M8e6Bz1LuhBy2QZ5,standard,standard
+MOTS-C,peptide,,10,mg,0.5,ml,10,mg,1,1 day,AM before exercise,,,4 weeks,4 weeks,25,Fat Loss and Metabolic Health. break of 2-4 weeks after completing a 4-6 week cycle,https://valhallavitality.com/blog/mots-c-dosage-essential-considerations-for-optimal-use,standard,standard
+MOTS-C,peptide,,10,mg,0.5,ml,15,mg,1,1 day,AM before exercise,,,4 weeks,4 weeks,25,Performance and Endurance. break of 2-4 weeks after completing a 4-6 week cycle,https://valhallavitality.com/blog/mots-c-dosage-essential-considerations-for-optimal-use,standard,standard
+MOTS-C,peptide,,10,mg,1,ml,10,mg,1,1 week,AM before exercise,,,4 weeks,4 weeks,,"1mL = 10 mg dose, essentially the entire thing",https://www.majesticaestheticswellness.com/wp-content/uploads/2023/05/Peptide-Worksheet-.pdf,baseline,standard
+NAD+,peptide,,500,mg,2,ml,100,mg,1,3 days,AM,,,8 weeks,8 weeks,40,,,baseline,standard
+NAD+,peptide,,500,mg,2,ml,50,mg,1,2 days,AM/PM,3,4,12 weeks,4 weeks,20,,,baseline,standard
+Retatrutide,peptide,,10,mg,1,ml,2.5,mg,1,7 days,AM/PM,,,,,25,Retatrutide doses range from 2.5mg to 7mg,,baseline,standard
+Semaglutide,peptide,,10,mg,1,ml,1,mg,1,7 days,AM/PM,,,,,10,Semaglutide doses can be from .5mg to 2.5mg,,baseline,standard
+Sermorelin,peptide,,5,mg,2.5,ml,200,mcg,1,1 day,AM/PM,,,8 weeks,8 weeks,10,,,baseline,standard
+Sermorelin,peptide,,5,mg,2.5,ml,400,mcg,1,1 day,AM/PM,,,8 weeks,8 weeks,20,,,baseline,standard
+SLU-PP-332,amino,,250,mcg,,,1,tablet,1,1day,,,,,,,User takes 2-3 times daily,https://biohackinguni.com/slu-pp-332-deep-dive-weight-loss-endurance-improved-mitochondrial-function-and-more-october-2024/,baseline,standard
+SS-31,peptide,,10,mg,1,ml,1,mg,1,1 day,AM,,,12 weeks,12 weeks,10,some users report needing up to 4mg to notice increased energy,,baseline,standard
+SS-31,peptide,,10,mg,1,ml,2,mg,1,1 day,AM/PM,,,,,,,https://www.majesticaestheticswellness.com/wp-content/uploads/2023/05/Peptide-Worksheet-.pdf,unknown,unknown
+SS-31,peptide,,10,mg,1,ml,5,mg,2,1 week,AM/PM,,,8 weeks,,,,,unknown,unknown
+SS-31,peptide,,10,mg,1,ml,10,mg,1,1 day,AM/PM,,,,,,,https://www.majesticaestheticswellness.com/wp-content/uploads/2023/05/Peptide-Worksheet-.pdf,unknown,unknown
+TB-500,peptide,,5,mg,3,ml,2,mg,3,1 week,AM/PM,,,6 weeks,0 weeks,30,6 weeks is usually required for more severe or chronic conditions that need a prolonged healing period.,https://valhallavitality.com/blog/understanding-the-ideal-tb-500-dosage-for-optimal-results,loading,high
+TB-500,peptide,,5,mg,3,ml,2,mg,3,1 week,AM/PM,,,4 weeks,0 weeks,30,4 weeks may be adequate for minor injuries or when quick improvement is noticed.,https://valhallavitality.com/blog/understanding-the-ideal-tb-500-dosage-for-optimal-results,loading,high
+TB-500,peptide,,5,mg,3,ml,2,mg,2,1 week,AM/PM,,,6 weeks,0 weeks,30,6 weeks is usually required for more severe or chronic conditions that need a prolonged healing period.,https://valhallavitality.com/blog/understanding-the-ideal-tb-500-dosage-for-optimal-results,loading,low
+TB-500,peptide,,5,mg,3,ml,2,mg,2,1 week,AM/PM,,,4 weeks,0 weeks,30,4 weeks may be adequate for minor injuries or when quick improvement is noticed.,https://valhallavitality.com/blog/understanding-the-ideal-tb-500-dosage-for-optimal-results,loading,low
+TB-500,peptide,,5,mg,3,ml,1,mg,2,1 month,AM/PM,,,8 weeks,8 weeks,15,2mg per month can be split administered in 1-2 doses. 2mg/month Ideal for mild conditions or following substantial improvement.,https://valhallavitality.com/blog/understanding-the-ideal-tb-500-dosage-for-optimal-results,maintainence,low
+TB-500,peptide,,5,mg,3,ml,2,mg,2,1 month,AM/PM,,,8 weeks,8 weeks,30,4mg per month can be split administered in 1-2 doses. 4mg/month suggested for ongoing moderate to severe conditions or for active individuals needing continuous support.,https://valhallavitality.com/blog/understanding-the-ideal-tb-500-dosage-for-optimal-results,maintainence,high
+TB-500,peptide,,5,mg,3,ml,1.5,mg,1,3 days,AM/PM,,,12 weeks,6 months,22.5,,https://valhallavitality.com/blog/understanding-the-ideal-tb-500-dosage-for-optimal-results,baseline,low
+TB-500,peptide,,15,mg,4,ml,3.75,mg,1,1 week,AM/PM,,,,,,,https://www.majesticaestheticswellness.com/wp-content/uploads/2023/05/Peptide-Worksheet-.pdf,unknown,unknown
+TB-500,peptide,,15,mg,4,ml,1.875,mg,1,1 week,AM/PM,,,,,,,https://www.majesticaestheticswellness.com/wp-content/uploads/2023/05/Peptide-Worksheet-.pdf,unknown,unknown
+Tesofensine,amino,,500,mcg,,,1,tablet,1,1day,,,,,,,,,baseline,standard
+Tirzepatide,peptide,,10,mg,1,ml,2.5,mg,1,7 days,AM/PM,,,,,25,Tirzepatide doses can be from 2.5mg to 12.5mg,,baseline,standard
