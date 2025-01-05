@@ -1,9 +1,10 @@
 name,type,blend_amounts,amount,amount_units,reconstitution_amount,reconstitution_units,dosage,dosage_units,doses_per_interval,frequency_interval,timing,days_on,days_off,duration_period,duration_repeat,syringe_units_per_dose,note,source,dosage_type,dosage_level
 AOD9604,peptide,,5,mg,2,ml,250,mcg,1,1 day,AM,,,12 weeks,4 weeks,10,,,baseline,standard
-BPC-157,peptide,,5,mg,3,ml,250,mcg,1,1 day,AM/PM,,,4 weeks,2 weeks,30,,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t,baseline,standard
+BPC-157,peptide,,5,mg,3,ml,250,mcg,1,1 day,AM/PM,,,4 weeks,2 weeks,15,,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t,baseline,standard
 BPC-157,peptide,,5,mg,3,ml,400,mcg,1,1 day,AM/PM,,,4 weeks,2 weeks,30,,https://youtu.be/VuZDBasRrs8?si=tlVv19nwnXifPk_t,baseline,standard
 BPC-157,peptide,,5,mg,3,ml,500,mcg,2,1 day,AM/PM,,,3 months,1 month,30,,https://www.vitalityhrt.com/blog/bpc-157-peptide-therapy/,theraputic,high
-BPC-157/TB-500,peptide,,5/5,mg,2,ml,250,mcg,1,1 day,AM/PM,,,12 weeks,4 weeks,10,,,baseline,standard
+BPC-157/TB-500,peptide,5/5,10,mg,3,ml,1000,mcg,2,1 day,AM/PM,,,12 weeks,4 weeks,30,,,theraputic,high
+BPC-157/TB-500,peptide,5/5,10,mg,2,ml,250,mcg,1,1 day,AM/PM,,,12 weeks,4 weeks,10,,,baseline,standard
 Cagrilintide,peptide,,10,mg,1,ml,2.5,mg,1,7 days,AM/PM,,,,,25,"the recommended dosage is always 4 weeks at 0.25, 4 weeks at 0.5, 4 weeks 1mg, 4 weeks 1.7, 2.4mg after that",,baseline,standard
 CJC-1295 No DAC,peptide,,10,mg,3,ml,200,mcg,1,1 day,PM,5,2,8 weeks,8 weeks,6,,,baseline,standard
 Epitalon,peptide,,10,mg,1.5,ml,1,mg,1,1 day,AM,,,10 days,4 months,15,,,baseline,standard
